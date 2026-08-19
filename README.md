@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Satyam Chauhan
 
-### 🎓 B.Tech CSE (LEET) | 📊 Data Science & Analytics | 🤖 Machine Learning Explorer
+### 🎓 B.Tech CSE (AIML) | 📊 Data Science & Analytics | 🤖 Machine Learning Explorer
 
 <p align="center">
   <b>Data → Insights → Intelligence 🚀</b>
@@ -16,7 +16,7 @@ Currently, I'm exploring **Machine Learning** and building my fundamentals throu
 
 ## 👨‍💻 About Me
 
-* 🎓 B.Tech Computer Science Engineering (LEET)
+* 🎓 B.Tech Computer Science Engineering (AIML)
 * 📊 Focused on Data Science & Data Analytics
 * 🐍 Python used for Data Analysis
 * 📈 Statistics — Learning + Practice completed
@@ -81,7 +81,7 @@ Currently, I'm exploring **Machine Learning** and building my fundamentals throu
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
@@ -106,7 +106,6 @@ Currently, I'm exploring **Machine Learning** and building my fundamentals throu
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
 </p>
 
 ### 🔧 Development
@@ -182,7 +181,7 @@ Statistics          █████████░  90%
 EDA                 ████████░░  85%
 Pandas & NumPy      ████████░░  80%
 Data Visualization  ████████░░  80%
-SQL                 ██████░░░░  60%
+SQL                 ████████░░  80%
 Machine Learning    ████░░░░░░  40%
 Deep Learning       █░░░░░░░░░  10%
 ```
@@ -190,43 +189,6 @@ Deep Learning       █░░░░░░░░░  10%
 > 📌 Progress percentages represent my current learning/practice level, not professional proficiency.
 
 ---
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyamdatascience&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamdatascience&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=satyamdatascience&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=satyamdatascience&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyamdatascience&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 # 🎯 2026 Goals
 
 * [ ] Strengthen Python for Data Science
@@ -259,11 +221,11 @@ I'm documenting my journey from:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/satyam-chauhan-cse/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_YOUTUBE_URL">
+<a href="https://www.youtube.com/@OfficialSatyamDiaries">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
